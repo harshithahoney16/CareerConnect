@@ -30,7 +30,7 @@ CareerConnect is a comprehensive job portal built using the MERN stack. It offer
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/akankshanimmagadda/CareerConnect.git
+   git clone https://github.com/harshithahoney16/CareerConnect.git
    cd CareerConnect
    ```
 
@@ -92,6 +92,5 @@ Distributed under the ISC License.
 
 ## 📧 Contact
 
-Akanksha Nimmagadda - [GitHub](https://github.com/akankshanimmagadda)
-
-Project Link: [https://github.com/akankshanimmagadda/CareerConnect](https://github.com/akankshanimmagadda/CareerConnect)
+Harshitha Kanithi - GitHub
+Project Link: https://github.com/harshithahoney16/CareerConnect
